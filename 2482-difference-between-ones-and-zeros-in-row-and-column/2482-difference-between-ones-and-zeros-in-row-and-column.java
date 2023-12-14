@@ -15,7 +15,7 @@ class Solution {
                 grid[i][j] = (2*(rOnes[i]+cOnes[j])) - grid.length - grid[0].length;
             }            
         }
-        // System.gc();
+        System.gc();
         return grid;
 
     }
