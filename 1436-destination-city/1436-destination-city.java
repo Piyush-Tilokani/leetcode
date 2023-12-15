@@ -27,7 +27,7 @@ class Solution{
                 return path.get(1);
             }
         }
-         // System.gc();
+        System.gc();
         return "";
      }
 }
