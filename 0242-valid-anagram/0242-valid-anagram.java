@@ -7,7 +7,7 @@ class Solution {
         char tArr[] = t.toCharArray();
         Arrays.sort(sArr);
         Arrays.sort(tArr);
-        System.gc();
+        // System.gc();
         return Arrays.equals(sArr, tArr);
     }
 }
