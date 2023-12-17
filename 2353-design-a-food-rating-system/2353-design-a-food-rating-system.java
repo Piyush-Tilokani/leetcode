@@ -40,11 +40,10 @@ class FoodRatings {
     }
     
     public void changeRating(String food, int newRating) {
-        Info prev=foodMap.remove(food);
+        Info prev=foodMap.get(food);
         Info curr= new Info(food,prev.cuisine,newRating);
         foodMap.put(food,curr);
-        
-        cuisineMap.get(prev.cuisine).remove(prev);
+        prev.food="";
         cuisineMap.get(prev.cuisine).add(curr);
              
 
@@ -52,6 +51,9 @@ class FoodRatings {
     }
     
     public String highestRated(String cuisine) {
+        while( cuisineMap.get(cuisine).peek().food.equals("")){
+            cuisineMap.get(cuisine).remove();
+        }
         return cuisineMap.get(cuisine).peek().food;
         
     }
