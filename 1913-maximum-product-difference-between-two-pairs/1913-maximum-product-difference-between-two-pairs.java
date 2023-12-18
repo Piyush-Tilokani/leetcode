@@ -15,7 +15,7 @@ class Solution {
                 y=num;
             }
         }
-        System.gc();
+        // System.gc();
         return (w*x) - (y*z);
     }
 }
