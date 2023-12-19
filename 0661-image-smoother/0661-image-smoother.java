@@ -25,7 +25,7 @@ class Solution {
                 res[i][j] = smooth(img, i, j);
             }
         }
-        System.gc();
+        // System.gc();
         return res;
     }
 }
