@@ -10,7 +10,6 @@ class Solution {
             int dist = copy[i+1] - copy[i];
             ret = Math.max(dist, ret);
         }
-        System.gc();
         return ret;
     }
 }
