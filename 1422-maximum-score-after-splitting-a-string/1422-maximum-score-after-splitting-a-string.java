@@ -17,7 +17,6 @@ class Solution {
            }
        }  
        ones += (s.charAt(len-1) == '1' ? 1: 0);
-        System.gc();
        return ones+score;
     }
 }
