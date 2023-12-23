@@ -28,7 +28,6 @@ class Solution {
             }
             set.add(coordinates);
         }         
-        System.gc();
         return false;
     }
 
