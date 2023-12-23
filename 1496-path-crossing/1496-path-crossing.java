@@ -1,22 +1,41 @@
 class Solution {
     public boolean isPathCrossing(String path) {
-        HashSet<String> pointVisited = new HashSet<>();
+        Set<String> set = new HashSet<>();
+        set.add("0-0");
+        int x = 0;
+        int y = 0;
 
-        pointVisited.add("0,0");
-        int x=0, y=0;
-        for(char ch : path.toCharArray()) {
-            if(ch == 'N') y++;
-            else if(ch == 'S') y--;
-            else if(ch == 'W') x--;
-            else x++;
-
-            String newPoint = x + "," + y;
-            if(pointVisited.contains(newPoint)) {
+        for (char c : path.toCharArray()) {
+            switch (c) {
+                case 'N':
+                    y++;
+                    break;
+                case 'S':
+                    y--;
+                    break;
+                case 'W':
+                    x--;
+                    break;
+                case 'E':
+                    x++;
+                    break;                                                    
+                default:
+                    break;
+            }
+            String coordinates = getCoordinates(x, y);
+            if (set.contains(coordinates)) {
                 return true;
             }
-            pointVisited.add(newPoint);
-        }
-        System.gc();
+            set.add(coordinates);
+        }           
         return false;
+    }
+
+    private String getCoordinates(int x, int y) {
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append(x);
+        stringBuilder.append("-");
+        stringBuilder.append(y);
+        return stringBuilder.toString();
     }
 }
