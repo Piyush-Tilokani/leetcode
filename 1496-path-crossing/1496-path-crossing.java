@@ -27,7 +27,8 @@ class Solution {
                 return true;
             }
             set.add(coordinates);
-        }           
+        }         
+        System.gc();
         return false;
     }
 
