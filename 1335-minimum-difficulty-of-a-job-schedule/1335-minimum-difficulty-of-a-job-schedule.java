@@ -1,28 +1,50 @@
 class Solution {
-    public int minDifficulty(int[] job, int d) {
-        if(d > job.length){
+    public int minDifficulty(int[] jobDifficulty, int d) {
+        if (jobDifficulty.length < d) {
             return -1;
         }
-     
-        int [] dp = new int[job.length + 1];
-        for(int i = 1; i <= job.length; i++){
-            dp[i] = Math.max(dp[i-1],job[i-1]);
+        int len = jobDifficulty.length;
+        int sum = 0;
+        for (int i = 0; i < jobDifficulty.length; i++) {
+            sum += jobDifficulty[i];
         }
-
-    for(int j = 2; j <= d; j++){ 
-        for(int i = job.length; i >= 1; i--){
-                int thisRow = Integer.MAX_VALUE;
-                int maxValue = Integer.MIN_VALUE;
-                for(int k = i - 1; k >= j - 1; k--){  
-                    maxValue = Math.max(maxValue,job[k]); 
-                    thisRow= Math.min(thisRow,dp[k] + maxValue);
-                }
-                dp[i] = thisRow;
-            }   
+        if (sum == 0) {
+            return 0;
         }
-       return dp[job.length];
+        int[][] memo = new int[d + 1][len];
+        helper(jobDifficulty, d, 0, memo);
+        
+        return memo[d][0];
     }
 
-
+    private void helper(int[] jd, int daysLeft, int idx, int[][] memo) {
+        int len = jd.length;
+        if (memo[daysLeft][idx] != 0) {
+            return;
+        }
+        if (daysLeft == 1) {
+            int num = 0;
+            for (int i = idx; i < len; i++) {
+                num = Math.max(num, jd[i]);
+            }
+            memo[daysLeft][idx] = num;
+            return;
+        }
+        int max = jd[idx];
+        daysLeft--;
+        int stop = len - idx - daysLeft + 1;
+    
+        int res = Integer.MAX_VALUE;
+        for (int i = 1; i < stop; i++) {
+            max = Math.max(max, jd[idx + i - 1]);
+            int other = memo[daysLeft][idx + i];
+            if (other == 0) {
+                helper(jd, daysLeft, idx + i, memo);
+                other = memo[daysLeft][idx + i];
+            }
+            res = Math.min(res, other + max);   
+        }
+        memo[daysLeft + 1][idx] = res;
+    }
 
 }
