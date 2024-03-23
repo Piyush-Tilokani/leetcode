@@ -10,13 +10,25 @@
  */
 class Solution {
     private int gcd(int a, int b){
-        int ans = Math.min(a, b);
-        while(ans>=1){
-            if(a%ans==0 && b%ans==0)
-                return ans;
-            ans--;
+        // int ans = Math.min(a, b);
+        // while(ans>=1){
+        //     if(a%ans==0 && b%ans==0)
+        //         return ans;
+        //     ans--;
+        // }
+        // return 1;
+        while(a>0 && b>0){
+            if(a==b)
+                return a;
+            if(a>b)
+                a%=b;
+            else
+                b%=a;
         }
-        return 1;
+        if(a==0)
+            return b;
+        else 
+            return a;
     }
     public ListNode insertGreatestCommonDivisors(ListNode head) {
         ListNode l = head;
