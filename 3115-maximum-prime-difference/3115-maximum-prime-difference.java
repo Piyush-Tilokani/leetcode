@@ -13,7 +13,6 @@ class Solution {
     public int maximumPrimeDifference(int[] nums) {
         int l=0;
         int r=nums.length-1;
-        System.out.println(r+1);
         while(l<=r){
             if(!isPrime(nums[l]))
                 l++;
