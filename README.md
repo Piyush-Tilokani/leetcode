@@ -5,10 +5,12 @@ This is the repository for keeping the track of all the leetcode submissions i m
 # Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Piyush-Tilokani/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Piyush-Tilokani/leetcode/tree/master/0056-merge-intervals) |
 # Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Piyush-Tilokani/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Piyush-Tilokani/leetcode/tree/master/0056-merge-intervals) |
 # Two Pointers
 |  |
@@ -19,6 +21,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 # String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Piyush-Tilokani/leetcode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/Piyush-Tilokani/leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Piyush-Tilokani/leetcode/tree/master/0409-longest-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Piyush-Tilokani/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -30,6 +33,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 # Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Piyush-Tilokani/leetcode/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/Piyush-Tilokani/leetcode/tree/master/0409-longest-palindrome) |
 # Linked List
 |  |
