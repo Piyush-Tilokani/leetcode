@@ -7,6 +7,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | ------- |
 | [0049-group-anagrams](https://github.com/Piyush-Tilokani/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Piyush-Tilokani/leetcode/tree/master/0056-merge-intervals) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Piyush-Tilokani/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 # Sorting
 |  |
@@ -38,6 +39,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | ------- |
 | [0049-group-anagrams](https://github.com/Piyush-Tilokani/leetcode/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/Piyush-Tilokani/leetcode/tree/master/0409-longest-palindrome) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Piyush-Tilokani/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Linked List
 |  |
 | ------- |
@@ -46,3 +48,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+# Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Piyush-Tilokani/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
