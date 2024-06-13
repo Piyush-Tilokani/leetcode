@@ -10,6 +10,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1016-subarray-sums-divisible-by-k](https://github.com/Piyush-Tilokani/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Piyush-Tilokani/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Piyush-Tilokani/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 # Sorting
 |  |
@@ -18,6 +19,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0056-merge-intervals](https://github.com/Piyush-Tilokani/leetcode/tree/master/0056-merge-intervals) |
 | [1137-height-checker](https://github.com/Piyush-Tilokani/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Piyush-Tilokani/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 # Two Pointers
 |  |
@@ -37,6 +39,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Piyush-Tilokani/leetcode/tree/master/0409-longest-palindrome) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Piyush-Tilokani/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Piyush-Tilokani/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
