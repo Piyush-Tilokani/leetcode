@@ -7,6 +7,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | ------- |
 | [0049-group-anagrams](https://github.com/Piyush-Tilokani/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Piyush-Tilokani/leetcode/tree/master/0056-merge-intervals) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Piyush-Tilokani/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Piyush-Tilokani/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Piyush-Tilokani/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/1217-relative-sort-array) |
@@ -17,6 +18,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | ------- |
 | [0049-group-anagrams](https://github.com/Piyush-Tilokani/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Piyush-Tilokani/leetcode/tree/master/0056-merge-intervals) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Piyush-Tilokani/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Piyush-Tilokani/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Piyush-Tilokani/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -39,6 +41,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Piyush-Tilokani/leetcode/tree/master/0409-longest-palindrome) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Piyush-Tilokani/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Piyush-Tilokani/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Piyush-Tilokani/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
@@ -63,6 +66,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Piyush-Tilokani/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Piyush-Tilokani/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/1217-relative-sort-array) |
 # Tree
