@@ -77,6 +77,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Piyush-Tilokani/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/Piyush-Tilokani/leetcode/tree/master/0199-binary-tree-right-side-view) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Piyush-Tilokani/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/Piyush-Tilokani/leetcode/tree/master/0199-binary-tree-right-side-view) |
 # Binary Tree
 |  |
 | ------- |
@@ -91,7 +93,9 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Piyush-Tilokani/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/Piyush-Tilokani/leetcode/tree/master/0199-binary-tree-right-side-view) |
 # Depth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Piyush-Tilokani/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/Piyush-Tilokani/leetcode/tree/master/0199-binary-tree-right-side-view) |
