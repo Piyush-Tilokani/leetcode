@@ -59,6 +59,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 # Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Piyush-Tilokani/leetcode/tree/master/0367-valid-perfect-square) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 # Prefix Sum
 |  |
@@ -99,3 +100,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Piyush-Tilokani/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush-Tilokani/leetcode/tree/master/0199-binary-tree-right-side-view) |
+# Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Piyush-Tilokani/leetcode/tree/master/0367-valid-perfect-square) |
