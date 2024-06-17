@@ -27,6 +27,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Piyush-Tilokani/leetcode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Piyush-Tilokani/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Piyush-Tilokani/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -60,6 +61,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Piyush-Tilokani/leetcode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/Piyush-Tilokani/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 # Prefix Sum
 |  |
@@ -104,3 +106,4 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Piyush-Tilokani/leetcode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/Piyush-Tilokani/leetcode/tree/master/0633-sum-of-square-numbers) |
