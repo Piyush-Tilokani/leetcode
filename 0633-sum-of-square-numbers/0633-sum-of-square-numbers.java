@@ -17,6 +17,7 @@ class Solution {
         // if(isPerfectSq(c)){
         //     return true;
         // }
+        //Since not many primes exist, we can skip the above part for better runtime
         long l=0;
         long r=(int)Math.sqrt(c);
         while(l<=r){
