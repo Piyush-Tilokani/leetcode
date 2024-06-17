@@ -15,7 +15,6 @@ class Solution {
     }
     public boolean judgeSquareSum(int c) {
         if(isPerfectSq(c)){
-            System.out.println("returning from sqrt");
             return true;
         }
         long l=0;
