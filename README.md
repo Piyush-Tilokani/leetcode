@@ -62,6 +62,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 # Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Piyush-Tilokani/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # Binary Search
@@ -87,6 +88,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0102-binary-tree-level-order-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Piyush-Tilokani/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush-Tilokani/leetcode/tree/master/0199-binary-tree-right-side-view) |
 # Breadth-First Search
@@ -103,11 +105,13 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0102-binary-tree-level-order-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Piyush-Tilokani/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush-Tilokani/leetcode/tree/master/0199-binary-tree-right-side-view) |
 # Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Piyush-Tilokani/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush-Tilokani/leetcode/tree/master/0199-binary-tree-right-side-view) |
 # Math
@@ -119,3 +123,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Piyush-Tilokani/leetcode/tree/master/0502-ipo) |
+# Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
