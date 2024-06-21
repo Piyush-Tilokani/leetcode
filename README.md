@@ -12,6 +12,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Piyush-Tilokani/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Piyush-Tilokani/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Piyush-Tilokani/leetcode/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/Piyush-Tilokani/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Piyush-Tilokani/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -127,3 +128,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/Piyush-Tilokani/leetcode/tree/master/1138-grumpy-bookstore-owner) |
