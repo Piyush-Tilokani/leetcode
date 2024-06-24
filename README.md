@@ -92,6 +92,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Piyush-Tilokani/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush-Tilokani/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Breadth-First Search
 |  |
@@ -111,6 +112,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Piyush-Tilokani/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush-Tilokani/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Depth-First Search
 |  |
@@ -136,3 +138,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Piyush-Tilokani/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
