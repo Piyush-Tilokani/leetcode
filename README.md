@@ -16,6 +16,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1217-relative-sort-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Piyush-Tilokani/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 # Sorting
 |  |
 | ------- |
@@ -142,3 +143,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+# Matrix
+|  |
+| ------- |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
