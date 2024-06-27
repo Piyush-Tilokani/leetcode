@@ -7,6 +7,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | ------- |
 | [0049-group-anagrams](https://github.com/Piyush-Tilokani/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Piyush-Tilokani/leetcode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0502-ipo](https://github.com/Piyush-Tilokani/leetcode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Piyush-Tilokani/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0901-advantage-shuffle](https://github.com/Piyush-Tilokani/leetcode/tree/master/0901-advantage-shuffle) |
@@ -150,4 +151,9 @@ This is the repository for keeping the track of all the leetcode submissions i m
 # Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+# Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0059-spiral-matrix-ii) |
