@@ -157,3 +157,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0059-spiral-matrix-ii) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Piyush-Tilokani/leetcode/tree/master/1916-find-center-of-star-graph) |
