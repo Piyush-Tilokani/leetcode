@@ -170,6 +170,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0073-set-matrix-zeroes](https://github.com/Piyush-Tilokani/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Piyush-Tilokani/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Piyush-Tilokani/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,4 +192,9 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Piyush-Tilokani/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Greedy
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Piyush-Tilokani/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
