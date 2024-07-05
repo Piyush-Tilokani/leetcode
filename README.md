@@ -200,6 +200,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## Linked List
 |  |
 | ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Piyush-Tilokani/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Piyush-Tilokani/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
