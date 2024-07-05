@@ -205,4 +205,8 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Piyush-Tilokani/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
