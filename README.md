@@ -168,6 +168,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | ------- |
 | [0057-insert-interval](https://github.com/Piyush-Tilokani/leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Piyush-Tilokani/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0189-rotate-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Piyush-Tilokani/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Piyush-Tilokani/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -183,6 +184,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -214,5 +216,6 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0189-rotate-array) |
 | [2645-pass-the-pillow](https://github.com/Piyush-Tilokani/leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
