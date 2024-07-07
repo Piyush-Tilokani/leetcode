@@ -218,6 +218,11 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0189-rotate-array) |
+| [0593-valid-square](https://github.com/Piyush-Tilokani/leetcode/tree/master/0593-valid-square) |
 | [1642-water-bottles](https://github.com/Piyush-Tilokani/leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Piyush-Tilokani/leetcode/tree/master/2645-pass-the-pillow) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Piyush-Tilokani/leetcode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
