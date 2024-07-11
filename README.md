@@ -264,16 +264,20 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0226-invert-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0226-invert-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0226-invert-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0226-invert-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
