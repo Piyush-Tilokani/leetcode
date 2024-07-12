@@ -205,6 +205,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Piyush-Tilokani/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -257,11 +258,13 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0647-palindromic-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/0647-palindromic-substrings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Tilokani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Piyush-Tilokani/leetcode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Tilokani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Piyush-Tilokani/leetcode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Tree
 |  |
 | ------- |
