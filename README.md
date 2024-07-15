@@ -177,12 +177,14 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1720-crawler-log-folder](https://github.com/Piyush-Tilokani/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Piyush-Tilokani/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Piyush-Tilokani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Piyush-Tilokani/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Matrix
 |  |
 | ------- |
@@ -276,6 +278,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0104-maximum-depth-of-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush-Tilokani/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -296,6 +299,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0104-maximum-depth-of-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush-Tilokani/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
