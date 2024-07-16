@@ -172,6 +172,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0137-single-number-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0735-asteroid-collision](https://github.com/Piyush-Tilokani/leetcode/tree/master/0735-asteroid-collision) |
 | [1293-three-consecutive-odds](https://github.com/Piyush-Tilokani/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Piyush-Tilokani/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Piyush-Tilokani/leetcode/tree/master/1720-crawler-log-folder) |
@@ -218,6 +219,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Piyush-Tilokani/leetcode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Piyush-Tilokani/leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Piyush-Tilokani/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Piyush-Tilokani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -268,6 +270,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Piyush-Tilokani/leetcode/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Tilokani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Piyush-Tilokani/leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
