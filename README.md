@@ -229,6 +229,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Piyush-Tilokani/leetcode/tree/master/0197-rising-temperature) |
 | [1153-product-sales-analysis-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Piyush-Tilokani/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Math
