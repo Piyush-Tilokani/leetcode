@@ -166,6 +166,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Piyush-Tilokani/leetcode/tree/master/0039-combination-sum) |
 | [0057-insert-interval](https://github.com/Piyush-Tilokani/leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Piyush-Tilokani/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Piyush-Tilokani/leetcode/tree/master/0078-subsets) |
@@ -247,6 +248,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Piyush-Tilokani/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Piyush-Tilokani/leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
