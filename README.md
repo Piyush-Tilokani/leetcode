@@ -171,6 +171,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0073-set-matrix-zeroes](https://github.com/Piyush-Tilokani/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Piyush-Tilokani/leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Piyush-Tilokani/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Piyush-Tilokani/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -271,6 +272,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Piyush-Tilokani/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Piyush-Tilokani/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0137-single-number-ii) |
 ## Recursion
 |  |
