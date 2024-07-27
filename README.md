@@ -167,6 +167,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Piyush-Tilokani/leetcode/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/Piyush-Tilokani/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Piyush-Tilokani/leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Piyush-Tilokani/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Piyush-Tilokani/leetcode/tree/master/0078-subsets) |
@@ -344,6 +345,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Piyush-Tilokani/leetcode/tree/master/0053-maximum-subarray) |
 | [0647-palindromic-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/0647-palindromic-substrings) |
 ## Union Find
 |  |
@@ -352,6 +354,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Piyush-Tilokani/leetcode/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
