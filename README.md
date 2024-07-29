@@ -181,6 +181,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0948-sort-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Piyush-Tilokani/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Piyush-Tilokani/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/Piyush-Tilokani/leetcode/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Piyush-Tilokani/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Piyush-Tilokani/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Piyush-Tilokani/leetcode/tree/master/1720-crawler-log-folder) |
@@ -349,6 +350,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | ------- |
 | [0053-maximum-subarray](https://github.com/Piyush-Tilokani/leetcode/tree/master/0053-maximum-subarray) |
 | [0647-palindromic-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/0647-palindromic-substrings) |
+| [1511-count-number-of-teams](https://github.com/Piyush-Tilokani/leetcode/tree/master/1511-count-number-of-teams) |
 ## Union Find
 |  |
 | ------- |
@@ -378,4 +380,8 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0948-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Piyush-Tilokani/leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
