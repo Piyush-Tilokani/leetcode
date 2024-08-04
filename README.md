@@ -193,6 +193,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Piyush-Tilokani/leetcode/tree/master/2502-sort-the-people) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Piyush-Tilokani/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2727-number-of-senior-citizens](https://github.com/Piyush-Tilokani/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -285,6 +286,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0078-subsets](https://github.com/Piyush-Tilokani/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Piyush-Tilokani/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0137-single-number-ii) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Piyush-Tilokani/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Recursion
 |  |
 | ------- |
