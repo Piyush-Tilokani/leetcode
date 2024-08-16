@@ -179,6 +179,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0137-single-number-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/Piyush-Tilokani/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0735-asteroid-collision](https://github.com/Piyush-Tilokani/leetcode/tree/master/0735-asteroid-collision) |
 | [0870-magic-squares-in-grid](https://github.com/Piyush-Tilokani/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Piyush-Tilokani/leetcode/tree/master/0890-lemonade-change) |
@@ -245,6 +246,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Piyush-Tilokani/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Piyush-Tilokani/leetcode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Piyush-Tilokani/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Piyush-Tilokani/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
