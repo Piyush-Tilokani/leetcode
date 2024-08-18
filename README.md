@@ -187,6 +187,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1293-three-consecutive-odds](https://github.com/Piyush-Tilokani/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Piyush-Tilokani/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Piyush-Tilokani/leetcode/tree/master/1511-count-number-of-teams) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Piyush-Tilokani/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Piyush-Tilokani/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Piyush-Tilokani/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -262,6 +263,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Piyush-Tilokani/leetcode/tree/master/0735-asteroid-collision) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Piyush-Tilokani/leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Piyush-Tilokani/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Piyush-Tilokani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -333,6 +335,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0143-reorder-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/0143-reorder-list) |
 | [0735-asteroid-collision](https://github.com/Piyush-Tilokani/leetcode/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Tilokani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/Piyush-Tilokani/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Tilokani/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
