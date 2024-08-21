@@ -173,6 +173,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0057-insert-interval](https://github.com/Piyush-Tilokani/leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Piyush-Tilokani/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Piyush-Tilokani/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Piyush-Tilokani/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Piyush-Tilokani/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Piyush-Tilokani/leetcode/tree/master/0136-single-number) |
@@ -219,6 +220,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Piyush-Tilokani/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Piyush-Tilokani/leetcode/tree/master/0079-word-search) |
 | [0870-magic-squares-in-grid](https://github.com/Piyush-Tilokani/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Piyush-Tilokani/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Piyush-Tilokani/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -297,6 +299,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0040-combination-sum-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Piyush-Tilokani/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Piyush-Tilokani/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Piyush-Tilokani/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -319,6 +322,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Piyush-Tilokani/leetcode/tree/master/0079-word-search) |
 | [0273-integer-to-english-words](https://github.com/Piyush-Tilokani/leetcode/tree/master/0273-integer-to-english-words) |
 | [0647-palindromic-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/0647-palindromic-substrings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Tilokani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
