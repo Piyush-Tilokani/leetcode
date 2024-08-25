@@ -341,6 +341,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/Piyush-Tilokani/leetcode/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Tilokani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -353,6 +354,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush-Tilokani/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -365,6 +367,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush-Tilokani/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -382,6 +385,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush-Tilokani/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
