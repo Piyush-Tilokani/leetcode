@@ -186,6 +186,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0890-lemonade-change](https://github.com/Piyush-Tilokani/leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Piyush-Tilokani/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Piyush-Tilokani/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Piyush-Tilokani/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Piyush-Tilokani/leetcode/tree/master/1511-count-number-of-teams) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -210,6 +211,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0128-longest-consecutive-sequence](https://github.com/Piyush-Tilokani/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Piyush-Tilokani/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Piyush-Tilokani/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Piyush-Tilokani/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Piyush-Tilokani/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
