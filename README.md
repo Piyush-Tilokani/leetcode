@@ -186,6 +186,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0890-lemonade-change](https://github.com/Piyush-Tilokani/leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Piyush-Tilokani/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Piyush-Tilokani/leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Piyush-Tilokani/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Piyush-Tilokani/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Piyush-Tilokani/leetcode/tree/master/1511-count-number-of-teams) |
@@ -253,6 +254,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Piyush-Tilokani/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Piyush-Tilokani/leetcode/tree/master/0890-lemonade-change) |
+| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Piyush-Tilokani/leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Piyush-Tilokani/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Piyush-Tilokani/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -347,6 +349,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0735-asteroid-collision](https://github.com/Piyush-Tilokani/leetcode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Tilokani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Piyush-Tilokani/leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/Piyush-Tilokani/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Tilokani/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
