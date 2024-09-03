@@ -280,6 +280,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1803-average-waiting-time](https://github.com/Piyush-Tilokani/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Piyush-Tilokani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Piyush-Tilokani/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Piyush-Tilokani/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Piyush-Tilokani/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Piyush-Tilokani/leetcode/tree/master/2645-pass-the-pillow) |
@@ -344,6 +345,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1720-crawler-log-folder](https://github.com/Piyush-Tilokani/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Tilokani/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Piyush-Tilokani/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Piyush-Tilokani/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Piyush-Tilokani/leetcode/tree/master/2727-number-of-senior-citizens) |
