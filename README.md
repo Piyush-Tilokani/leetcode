@@ -271,6 +271,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/0143-reorder-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Piyush-Tilokani/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Piyush-Tilokani/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Piyush-Tilokani/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
