@@ -397,6 +397,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0226-invert-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush-Tilokani/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Tilokani/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Piyush-Tilokani/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -411,6 +412,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0226-invert-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush-Tilokani/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Tilokani/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -430,6 +432,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0226-invert-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush-Tilokani/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Tilokani/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Piyush-Tilokani/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
