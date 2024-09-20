@@ -276,6 +276,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Piyush-Tilokani/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Piyush-Tilokani/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
@@ -323,6 +324,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2155-find-missing-observations](https://github.com/Piyush-Tilokani/leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Piyush-Tilokani/leetcode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Geometry
 |  |
 | ------- |
@@ -378,6 +380,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Piyush-Tilokani/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Piyush-Tilokani/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
