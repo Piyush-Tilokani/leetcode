@@ -219,6 +219,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Piyush-Tilokani/leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Piyush-Tilokani/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Piyush-Tilokani/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -318,6 +319,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Piyush-Tilokani/leetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/Piyush-Tilokani/leetcode/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Piyush-Tilokani/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -369,6 +371,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Piyush-Tilokani/leetcode/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/Piyush-Tilokani/leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Piyush-Tilokani/leetcode/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/Piyush-Tilokani/leetcode/tree/master/0273-integer-to-english-words) |
