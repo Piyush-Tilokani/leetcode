@@ -320,6 +320,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Piyush-Tilokani/leetcode/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/Piyush-Tilokani/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/Piyush-Tilokani/leetcode/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Piyush-Tilokani/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -361,6 +362,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Piyush-Tilokani/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/0143-reorder-list) |
 | [0273-integer-to-english-words](https://github.com/Piyush-Tilokani/leetcode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Piyush-Tilokani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
