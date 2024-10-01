@@ -137,12 +137,12 @@ class Solution {
         //Better way to write the above code using helper function
         boolean ab = x>y;
         if(ab){
-            String updated = update(s, x, "ab");
-            String updated2 = update(updated, y, "ba");
+            s = update(s, x, "ab");
+            s = update(s, y, "ba");
         }
         else{
-            String updated = update(s, y, "ba");
-            String updated2 = update(updated, x, "ab");
+            s = update(s, y, "ba");
+            s = update(s, x, "ab");
         }
         return ans;
     }
