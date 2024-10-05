@@ -360,6 +360,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Piyush-Tilokani/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Piyush-Tilokani/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Piyush-Tilokani/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Piyush-Tilokani/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -367,6 +368,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0143-reorder-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/0143-reorder-list) |
 | [0273-integer-to-english-words](https://github.com/Piyush-Tilokani/leetcode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Piyush-Tilokani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Piyush-Tilokani/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
 |  |
 | ------- |
@@ -393,6 +395,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2727-number-of-senior-citizens](https://github.com/Piyush-Tilokani/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Piyush-Tilokani/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
