@@ -186,6 +186,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0870-magic-squares-in-grid](https://github.com/Piyush-Tilokani/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Piyush-Tilokani/leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0948-sort-an-array) |
+| [1002-maximum-width-ramp](https://github.com/Piyush-Tilokani/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1293-three-consecutive-odds](https://github.com/Piyush-Tilokani/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Piyush-Tilokani/leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Piyush-Tilokani/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -408,6 +409,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0735-asteroid-collision](https://github.com/Piyush-Tilokani/leetcode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Tilokani/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Piyush-Tilokani/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Tilokani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Piyush-Tilokani/leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Piyush-Tilokani/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -552,4 +554,8 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Piyush-Tilokani/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Piyush-Tilokani/leetcode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
