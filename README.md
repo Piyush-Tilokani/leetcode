@@ -280,6 +280,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | ------- |
 | [0179-largest-number](https://github.com/Piyush-Tilokani/leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Piyush-Tilokani/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/Piyush-Tilokani/leetcode/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/Piyush-Tilokani/leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Tilokani/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Piyush-Tilokani/leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
@@ -333,6 +334,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0273-integer-to-english-words](https://github.com/Piyush-Tilokani/leetcode/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Piyush-Tilokani/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/Piyush-Tilokani/leetcode/tree/master/0593-valid-square) |
+| [0670-maximum-swap](https://github.com/Piyush-Tilokani/leetcode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/Piyush-Tilokani/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Piyush-Tilokani/leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Piyush-Tilokani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
