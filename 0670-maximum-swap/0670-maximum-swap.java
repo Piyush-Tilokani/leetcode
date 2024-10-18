@@ -1,5 +1,6 @@
 class Solution {
     public int maximumSwap(int num) {
+        //Approach: Visualising num as array of digits and simulating
         int ans=0;
         int n=(int)Math.log10(num) + 1;
         int arr[] = new int[n];
