@@ -395,6 +395,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0592-fraction-addition-and-subtraction](https://github.com/Piyush-Tilokani/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Piyush-Tilokani/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0812-rotate-string](https://github.com/Piyush-Tilokani/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Piyush-Tilokani/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Tilokani/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Tilokani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -586,4 +587,8 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Piyush-Tilokani/leetcode/tree/master/0692-top-k-frequent-words) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Piyush-Tilokani/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
