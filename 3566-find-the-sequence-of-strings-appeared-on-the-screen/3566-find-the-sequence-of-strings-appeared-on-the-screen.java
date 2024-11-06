@@ -3,13 +3,13 @@ class Solution {
         List<String> ans = new ArrayList<>();
         StringBuilder s = new StringBuilder();
         int i=0;
-        while(!target.equals(s.toString())){
+        for(char c: target.toCharArray()){
             s.append("a");
-            while(s.charAt(i)!=target.charAt(i)){
-                char c = s.charAt(i);
-                c+=1;
+            while(s.charAt(i)!=c){
+                char ch = s.charAt(i);
+                ch+=1;
                 ans.add(s.toString());
-                s.setCharAt(i, c);
+                s.setCharAt(i, ch);
             }
             ans.add(s.toString());
             i++;
