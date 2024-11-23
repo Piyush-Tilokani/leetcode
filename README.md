@@ -204,6 +204,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1786-count-the-number-of-consistent-strings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Piyush-Tilokani/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Piyush-Tilokani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1972-rotating-the-box](https://github.com/Piyush-Tilokani/leetcode/tree/master/1972-rotating-the-box) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Piyush-Tilokani/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Piyush-Tilokani/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -253,6 +254,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0870-magic-squares-in-grid](https://github.com/Piyush-Tilokani/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Piyush-Tilokani/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Piyush-Tilokani/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1972-rotating-the-box](https://github.com/Piyush-Tilokani/leetcode/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Piyush-Tilokani/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Two Pointers
@@ -262,6 +264,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0189-rotate-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/0647-palindromic-substrings) |
+| [1972-rotating-the-box](https://github.com/Piyush-Tilokani/leetcode/tree/master/1972-rotating-the-box) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Tilokani/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
