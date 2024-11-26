@@ -612,4 +612,8 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Piyush-Tilokani/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
