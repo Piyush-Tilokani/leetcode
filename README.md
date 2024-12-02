@@ -264,6 +264,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0189-rotate-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/0647-palindromic-substrings) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Piyush-Tilokani/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/Piyush-Tilokani/leetcode/tree/master/1972-rotating-the-box) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Tilokani/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
@@ -412,6 +413,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0920-uncommon-words-from-two-sentences](https://github.com/Piyush-Tilokani/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Tilokani/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Tilokani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Piyush-Tilokani/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/Piyush-Tilokani/leetcode/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/Piyush-Tilokani/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Tilokani/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -608,6 +610,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Piyush-Tilokani/leetcode/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Piyush-Tilokani/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Enumeration
 |  |
 | ------- |
