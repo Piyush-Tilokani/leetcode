@@ -196,6 +196,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1511-count-number-of-teams](https://github.com/Piyush-Tilokani/leetcode/tree/master/1511-count-number-of-teams) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Piyush-Tilokani/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1582-design-browser-history](https://github.com/Piyush-Tilokani/leetcode/tree/master/1582-design-browser-history) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Piyush-Tilokani/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1651-shuffle-string](https://github.com/Piyush-Tilokani/leetcode/tree/master/1651-shuffle-string) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Piyush-Tilokani/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -310,6 +311,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | ------- |
 | [0143-reorder-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/0143-reorder-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Piyush-Tilokani/leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [1582-design-browser-history](https://github.com/Piyush-Tilokani/leetcode/tree/master/1582-design-browser-history) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Piyush-Tilokani/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Piyush-Tilokani/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/Piyush-Tilokani/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -443,6 +445,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Piyush-Tilokani/leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Piyush-Tilokani/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1582-design-browser-history](https://github.com/Piyush-Tilokani/leetcode/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Piyush-Tilokani/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Tilokani/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -580,11 +583,13 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Piyush-Tilokani/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Piyush-Tilokani/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/Piyush-Tilokani/leetcode/tree/master/1582-design-browser-history) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Piyush-Tilokani/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Piyush-Tilokani/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/Piyush-Tilokani/leetcode/tree/master/1582-design-browser-history) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -619,4 +624,8 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3189-find-champion-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Piyush-Tilokani/leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
