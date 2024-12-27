@@ -464,6 +464,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Tilokani/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Piyush-Tilokani/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Piyush-Tilokani/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Piyush-Tilokani/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -484,6 +485,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Tilokani/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Piyush-Tilokani/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Piyush-Tilokani/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -496,6 +498,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0104-maximum-depth-of-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Tilokani/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Piyush-Tilokani/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1254-deepest-leaves-sum](https://github.com/Piyush-Tilokani/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -510,6 +513,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Tilokani/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Piyush-Tilokani/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Piyush-Tilokani/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Piyush-Tilokani/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
