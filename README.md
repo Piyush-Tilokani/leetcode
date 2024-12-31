@@ -469,6 +469,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0789-kth-largest-element-in-a-stream](https://github.com/Piyush-Tilokani/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Piyush-Tilokani/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Piyush-Tilokani/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Piyush-Tilokani/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Piyush-Tilokani/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -490,6 +491,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Piyush-Tilokani/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Piyush-Tilokani/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Piyush-Tilokani/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Piyush-Tilokani/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Piyush-Tilokani/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Piyush-Tilokani/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -501,6 +503,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0226-invert-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Tilokani/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Piyush-Tilokani/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Piyush-Tilokani/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Piyush-Tilokani/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -519,6 +522,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0789-kth-largest-element-in-a-stream](https://github.com/Piyush-Tilokani/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Piyush-Tilokani/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Piyush-Tilokani/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Piyush-Tilokani/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Piyush-Tilokani/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
