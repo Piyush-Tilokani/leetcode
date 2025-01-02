@@ -222,6 +222,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Piyush-Tilokani/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Piyush-Tilokani/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Piyush-Tilokani/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Piyush-Tilokani/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2846-robot-collisions) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -426,6 +427,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Piyush-Tilokani/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Piyush-Tilokani/leetcode/tree/master/2502-sort-the-people) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Piyush-Tilokani/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Piyush-Tilokani/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Piyush-Tilokani/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -610,6 +612,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1435-xor-queries-of-a-subarray](https://github.com/Piyush-Tilokani/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Piyush-Tilokani/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Piyush-Tilokani/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Piyush-Tilokani/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Number Theory
 |  |
 | ------- |
