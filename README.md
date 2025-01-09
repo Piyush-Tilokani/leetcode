@@ -217,6 +217,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Piyush-Tilokani/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Piyush-Tilokani/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Piyush-Tilokani/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2358-number-of-ways-to-split-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/Piyush-Tilokani/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -435,6 +436,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Piyush-Tilokani/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Piyush-Tilokani/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Piyush-Tilokani/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/Piyush-Tilokani/leetcode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Piyush-Tilokani/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Piyush-Tilokani/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -650,6 +652,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0812-rotate-string](https://github.com/Piyush-Tilokani/leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Piyush-Tilokani/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Piyush-Tilokani/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Enumeration
 |  |
