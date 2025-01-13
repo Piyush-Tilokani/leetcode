@@ -5,11 +5,13 @@ class Solution {
         for(char c: s.toCharArray()){
             freq[c-'a']++;
         }
-        for(int i=0; i<26; i++){
-            while(freq[i]>=3){
-                freq[i]-=2;
-            }
-            ans+=freq[i];
+        for(int i: freq){
+            if(i==0)
+                continue;
+            if(i%2==0)
+                ans+=2;
+            else
+                ans++;
         }
         return ans;
     }
