@@ -254,6 +254,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2502-sort-the-people](https://github.com/Piyush-Tilokani/leetcode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
@@ -447,6 +448,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3451-string-compression-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Piyush-Tilokani/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Piyush-Tilokani/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Stack
 |  |
@@ -597,6 +599,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1786-count-the-number-of-consistent-strings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Indexed Tree
 |  |
 | ------- |
