@@ -229,6 +229,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2691-count-vowel-strings-in-ranges](https://github.com/Piyush-Tilokani/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Piyush-Tilokani/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyush-Tilokani/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Piyush-Tilokani/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2846-robot-collisions) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -401,6 +402,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Piyush-Tilokani/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Piyush-Tilokani/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyush-Tilokani/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Piyush-Tilokani/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Piyush-Tilokani/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
