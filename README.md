@@ -175,6 +175,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0078-subsets](https://github.com/Piyush-Tilokani/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Piyush-Tilokani/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Piyush-Tilokani/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Piyush-Tilokani/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Piyush-Tilokani/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0137-single-number-ii) |
@@ -563,6 +564,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Piyush-Tilokani/leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Piyush-Tilokani/leetcode/tree/master/0118-pascals-triangle) |
 | [0647-palindromic-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/0647-palindromic-substrings) |
 | [1511-count-number-of-teams](https://github.com/Piyush-Tilokani/leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Tilokani/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
