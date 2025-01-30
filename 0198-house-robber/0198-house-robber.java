@@ -43,5 +43,9 @@ class Solution {
             dp[i]=Math.max(pick, notPick);
         }
         return dp[nums.length-1];
+
+
+        //Bottom-up dp with space optimization (Tabulation)
+        //TC: O(n), SC: O(1)
     }
 }
