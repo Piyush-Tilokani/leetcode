@@ -360,6 +360,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2645-pass-the-pillow](https://github.com/Piyush-Tilokani/leetcode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2846-robot-collisions) |
+| [3447-clear-digits](https://github.com/Piyush-Tilokani/leetcode/tree/master/3447-clear-digits) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Piyush-Tilokani/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Database
 |  |
@@ -466,6 +467,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Piyush-Tilokani/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3451-string-compression-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Piyush-Tilokani/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -490,6 +492,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1818-maximum-score-from-removing-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2846-robot-collisions) |
+| [3447-clear-digits](https://github.com/Piyush-Tilokani/leetcode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
