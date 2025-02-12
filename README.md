@@ -228,6 +228,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2306-create-binary-tree-from-descriptions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2358-number-of-ways-to-split-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/Piyush-Tilokani/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Piyush-Tilokani/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Tilokani/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Piyush-Tilokani/leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Piyush-Tilokani/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -264,6 +265,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Piyush-Tilokani/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Piyush-Tilokani/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Piyush-Tilokani/leetcode/tree/master/2502-sort-the-people) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyush-Tilokani/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -309,6 +311,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Piyush-Tilokani/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Piyush-Tilokani/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Piyush-Tilokani/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Piyush-Tilokani/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Tilokani/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Piyush-Tilokani/leetcode/tree/master/2502-sort-the-people) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Piyush-Tilokani/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -605,6 +608,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0692-top-k-frequent-words](https://github.com/Piyush-Tilokani/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Piyush-Tilokani/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0948-sort-an-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Piyush-Tilokani/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
 |  |
