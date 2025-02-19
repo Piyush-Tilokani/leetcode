@@ -407,6 +407,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0079-word-search](https://github.com/Piyush-Tilokani/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0090-subsets-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Piyush-Tilokani/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Piyush-Tilokani/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Piyush-Tilokani/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -453,6 +454,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Tilokani/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1160-letter-tile-possibilities](https://github.com/Piyush-Tilokani/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Tilokani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Piyush-Tilokani/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Piyush-Tilokani/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Piyush-Tilokani/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
