@@ -211,6 +211,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1741-sort-array-by-increasing-frequency](https://github.com/Piyush-Tilokani/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Piyush-Tilokani/leetcode/tree/master/1803-average-waiting-time) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Piyush-Tilokani/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Piyush-Tilokani/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Piyush-Tilokani/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Piyush-Tilokani/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -600,6 +601,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0647-palindromic-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/0647-palindromic-substrings) |
 | [1511-count-number-of-teams](https://github.com/Piyush-Tilokani/leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Tilokani/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Piyush-Tilokani/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Union Find
 |  |
 | ------- |
