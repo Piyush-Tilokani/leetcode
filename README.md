@@ -243,6 +243,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyush-Tilokani/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Piyush-Tilokani/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2846-robot-collisions) |
+| [3227-find-missing-and-repeated-values](https://github.com/Piyush-Tilokani/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Piyush-Tilokani/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -274,6 +275,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2502-sort-the-people](https://github.com/Piyush-Tilokani/leetcode/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Piyush-Tilokani/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyush-Tilokani/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/Piyush-Tilokani/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -289,6 +291,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1972-rotating-the-box](https://github.com/Piyush-Tilokani/leetcode/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Piyush-Tilokani/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [3227-find-missing-and-repeated-values](https://github.com/Piyush-Tilokani/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -400,6 +403,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2645-pass-the-pillow](https://github.com/Piyush-Tilokani/leetcode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Piyush-Tilokani/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Piyush-Tilokani/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/Piyush-Tilokani/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Geometry
 |  |
