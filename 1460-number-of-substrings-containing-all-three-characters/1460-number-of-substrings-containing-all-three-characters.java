@@ -1,9 +1,6 @@
 class Solution {
     private boolean containsAll3(int[] freq){
-        for(int i: freq)
-            if(i==0)
-                return false;
-        return true;
+        return freq[0]>0 && freq[1]>0 && freq[2]>0;
     }
     public int numberOfSubstrings(String s) {
         int ans=0;
