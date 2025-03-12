@@ -236,6 +236,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2502-sort-the-people](https://github.com/Piyush-Tilokani/leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Piyush-Tilokani/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Piyush-Tilokani/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Piyush-Tilokani/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Piyush-Tilokani/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Piyush-Tilokani/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -312,6 +313,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0350-intersection-of-two-arrays-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Piyush-Tilokani/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Piyush-Tilokani/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Piyush-Tilokani/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -657,6 +659,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1786-count-the-number-of-consistent-strings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Piyush-Tilokani/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Piyush-Tilokani/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Indexed Tree
