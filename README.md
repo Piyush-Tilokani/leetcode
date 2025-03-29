@@ -504,6 +504,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Piyush-Tilokani/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Piyush-Tilokani/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3636-check-balanced-string](https://github.com/Piyush-Tilokani/leetcode/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
