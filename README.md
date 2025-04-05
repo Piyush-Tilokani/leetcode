@@ -217,6 +217,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1927-maximum-ascending-subarray-sum](https://github.com/Piyush-Tilokani/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Piyush-Tilokani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/Piyush-Tilokani/leetcode/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Piyush-Tilokani/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Piyush-Tilokani/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Piyush-Tilokani/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -406,6 +407,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1642-water-bottles](https://github.com/Piyush-Tilokani/leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Piyush-Tilokani/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Piyush-Tilokani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Piyush-Tilokani/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/Piyush-Tilokani/leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Piyush-Tilokani/leetcode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Piyush-Tilokani/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -428,6 +430,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0090-subsets-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0090-subsets-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Piyush-Tilokani/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Piyush-Tilokani/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Piyush-Tilokani/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Piyush-Tilokani/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -439,6 +442,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0476-number-complement](https://github.com/Piyush-Tilokani/leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Piyush-Tilokani/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Piyush-Tilokani/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Piyush-Tilokani/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Piyush-Tilokani/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Piyush-Tilokani/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -733,6 +737,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Piyush-Tilokani/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Piyush-Tilokani/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Graph
 |  |
@@ -750,4 +755,8 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Piyush-Tilokani/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
