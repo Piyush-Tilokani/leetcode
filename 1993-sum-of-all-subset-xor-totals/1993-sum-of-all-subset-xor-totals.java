@@ -2,7 +2,6 @@ class Solution {
     private int helper(int [] nums, int i, int xor){
         if(i>=nums.length)
             return xor;
-        System.out.println(nums[i]);
         int pick = helper(nums, i+1, nums[i]^xor);
         int notPick = helper(nums, i+1, xor);
         return pick+notPick;
