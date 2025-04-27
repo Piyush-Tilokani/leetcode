@@ -255,6 +255,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [3429-special-array-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Piyush-Tilokani/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
