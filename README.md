@@ -194,6 +194,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Piyush-Tilokani/leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1364-tuple-with-same-product](https://github.com/Piyush-Tilokani/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Piyush-Tilokani/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Piyush-Tilokani/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Piyush-Tilokani/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Piyush-Tilokani/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Piyush-Tilokani/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -404,6 +405,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0593-valid-square](https://github.com/Piyush-Tilokani/leetcode/tree/master/0593-valid-square) |
 | [0670-maximum-swap](https://github.com/Piyush-Tilokani/leetcode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/Piyush-Tilokani/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Piyush-Tilokani/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Piyush-Tilokani/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/Piyush-Tilokani/leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Piyush-Tilokani/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
