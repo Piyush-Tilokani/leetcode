@@ -249,6 +249,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2846-robot-collisions](https://github.com/Piyush-Tilokani/leetcode/tree/master/2846-robot-collisions) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/Piyush-Tilokani/leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Piyush-Tilokani/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Piyush-Tilokani/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -505,6 +506,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2727-number-of-senior-citizens](https://github.com/Piyush-Tilokani/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Piyush-Tilokani/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Piyush-Tilokani/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/Piyush-Tilokani/leetcode/tree/master/3194-find-words-containing-character) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Piyush-Tilokani/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
