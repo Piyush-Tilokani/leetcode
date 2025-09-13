@@ -4,7 +4,7 @@ class Solution {
         int maxConsonantCount = 0;
         int freq[] = new int[26];
         for(char c: s.toCharArray()){
-            if("aeiou".contains(c+"")){
+            if("aeiou".indexOf(c) != -1){
                 freq[c-'a']++;
                 maxVowelCount = Math.max(maxVowelCount, freq[c-'a']);
             }
