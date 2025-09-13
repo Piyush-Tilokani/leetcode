@@ -445,6 +445,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [0090-subsets-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Piyush-Tilokani/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Piyush-Tilokani/leetcode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/Piyush-Tilokani/leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Piyush-Tilokani/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Piyush-Tilokani/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -644,6 +645,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Piyush-Tilokani/leetcode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Piyush-Tilokani/leetcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
