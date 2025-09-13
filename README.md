@@ -291,6 +291,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Piyush-Tilokani/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Piyush-Tilokani/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
@@ -517,6 +518,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [3455-minimum-length-of-string-after-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Piyush-Tilokani/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3636-check-balanced-string](https://github.com/Piyush-Tilokani/leetcode/tree/master/3636-check-balanced-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Piyush-Tilokani/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -679,6 +681,7 @@ This is the repository for keeping the track of all the leetcode submissions i m
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Piyush-Tilokani/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Tilokani/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Piyush-Tilokani/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Piyush-Tilokani/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Indexed Tree
 |  |
 | ------- |
